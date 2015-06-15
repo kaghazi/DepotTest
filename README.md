@@ -1,4 +1,4 @@
 #DepotTest
 
 new modif st
-conflit
+conflict
